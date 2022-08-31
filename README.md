@@ -1,2 +1,2 @@
-# pythonSURA4
-Condicionales y ciclos con Python
+# Ciclos y Condiciones con Python
+## Porgramado por: David Martinez Martelo 
